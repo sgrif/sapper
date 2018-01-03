@@ -2,11 +2,11 @@
 
 ### Preface
 
-Sapper is a lightweight web mvc framework, easy for use.  Like python falcon/flask.
+Sapper is a lightweight web mvc framework, easy to use. It is similar to the Python frameworks falcon and flask.
 
 ### Introduction
 
-Sapper is based on [Hyper 0.10.13](https://github.com/hyperium/hyper), now using sync net mode, when async/await are ready, Sapper will follow it to walk to async framework.
+Sapper is based on [Hyper 0.10.13](https://github.com/hyperium/hyper). It uses sync net mode. When async/await are available in stable Rust, Sapper will become an async framework.
 
 Sapper consists of:
 
